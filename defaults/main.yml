@@ -58,3 +58,4 @@ redis_client_output_buffer_limit:
 
 redis_hz: 10
 redis_aof_rewrite_incremental_fsync: yes
+trellis_redis_php_fpm: php7.3-fpm
